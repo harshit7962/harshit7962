@@ -1,25 +1,25 @@
 <img src="https://i.imgur.com/m5IOBjW.png" alt="imag1" style="width:26%; margin:50px;" align="left">
 
 # Hola <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40px"/>, I'm [Harshit Mishra!](https://harshit7962.github.io/shaandaar_harshit/) 
-<a href="https://www.linkedin.com/in/harshit-mishra-509b4918b/">
+<a href="https://www.linkedin.com/in/harshit-mishra-509b4918b/" target="_blank">
   <img align="left" alt="Harshit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/shaandaar_harshit/">
+<a href="https://www.instagram.com/shaandaar_harshit/" target="_blank">
   <img align="left" alt="Harshit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://twitter.com/great_harshit">
+<a href="https://twitter.com/great_harshit" target="_blank">
   <img align="left" alt="Harshit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
-<a href="mailto:harshit7962@gmail.com">
+<a href="mailto:harshit7962@gmail.com" target="_blank">
   <img align="left" alt="Mail Harshit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
-<a href="https://leetcode.com/harshit7962/">
+<a href="https://leetcode.com/harshit7962/" target="_blank">
   <img align="left" alt="Harshit's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
 </a>
-<a href="https://www.hackerrank.com/harshit7962">
+<a href="https://www.hackerrank.com/harshit7962"  target="_blank">
   <img align="left" alt="Harshit's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
 </a>
-<a href="https://harshit7962.github.io/shaandaar_harshit/">
+<a href="https://www.harshit7962.me/" target="_blank">
   <img align="left" alt="Harshit's Sourcerer" width="22px" src="https://cdn4.iconfinder.com/data/icons/contact-us-19/48/15-512.png"  />
 </a>
 <br>
