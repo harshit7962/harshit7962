@@ -31,7 +31,7 @@ I am a Machine Learning enthusiast 👨‍💻, having made some really cool pro
 
 <br/>
 <br/>
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/626327/screenshots/2618501/400.gif" width="400px" height="250px"/>
+<!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/626327/screenshots/2618501/400.gif" width="400px" height="250px"/> -->
 
 
 ## 😀 Talking about Personal Stuffs
