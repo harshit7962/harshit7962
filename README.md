@@ -37,7 +37,7 @@ I am a Machine Learning enthusiast 👨‍💻, having made some really cool pro
 ## 😀 Talking about Personal Stuffs
 
 - 👨🏽‍💻 Looking For **Internships**;
-- 🌱 I’m Currently Working On **New Projects**; 
+- 🌱 I’m Currently Working On **Data Structures**; 
 - 👯 Open For **Collaboration**;
 - 💬 Ask Me About Anything, I Am Happy To **Help**;
 - 📫 How To Reach Me: harshit7962@gmail.com;
