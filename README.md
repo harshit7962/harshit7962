@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/m5IOBjW.png" alt="imag1" style="width:26%; margin:50px;" align="left">
 
-# Hola <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40px"/>, I'm [Harshit Mishra!](https://harshit7962.github.io/shaandaar_harshit/) 
+# Hola <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width=40>, I'm [Harshit Mishra!](https://harshit7962.github.io/shaandaar_harshit/) 
 <a href="https://www.linkedin.com/in/harshit-mishra-509b4918b/" target="_blank">
   <img align="left" alt="Harshit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
