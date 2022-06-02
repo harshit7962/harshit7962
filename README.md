@@ -68,11 +68,11 @@ I am a Machine Learning enthusiast 👨‍💻, having made some really cool pro
 
 <img src="https://leetcard.jacoblin.cool/harshit7962?theme=dark&font=Adamina" />
 
-![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=harshit7962&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
+<!-- ![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=harshit7962&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919) -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshit7962&theme=dark)](https://git.io/streak-stats)
 
-![MSL](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit7962&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
+<!-- ![MSL](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit7962&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919) -->
 
 ## 👀 Visitors count
 <img src="https://profile-counter.glitch.me/harshit7962/count.svg" />
