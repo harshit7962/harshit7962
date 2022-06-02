@@ -67,8 +67,8 @@ I am a Machine Learning enthusiast 👨‍💻, having made some really cool pro
 ![Daily Activity](https://activity-graph.herokuapp.com/graph?username=harshit7962&bg_color=000000&color=fff&line=0194dd&point=5194f0&area=true)
 
 <p float="left">
-  <img src="https://leetcard.jacoblin.cool/harshit7962?theme=dark&font=Adamina" width="410" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit7962&theme=dark&font=Adamina" width="415" />
+  <img src="https://leetcard.jacoblin.cool/harshit7962?theme=dark&font=Adamina" width="414" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit7962&theme=dark&font=Adamina" width="416" />
 </p>
 
 <!-- <p><img src="https://leetcard.jacoblin.cool/harshit7962?theme=dark&font=Adamina" /></p> -->
