@@ -86,4 +86,4 @@ I am a Machine Learning enthusiast 👨‍💻, having made some really cool pro
   
 <br>
 
-<p align="center">Do Give A Look To My <a href="https://github.com/harshit7962?tab=repositories" target="_blank">Repositories</a> And ⭐ It </p>
+<p align="center">Do Give A Look To My <a href="https://github.com/harshit7962?tab=repositories" target="_blank">Repositories</a> And ⭐ Them </p>
