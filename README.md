@@ -30,9 +30,8 @@ I am a Machine Learning enthusiast 👨‍💻, having made some really cool pro
 <br/>
 <br/>
 <!-- <br/> -->
-<!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/626327/screenshots/2618501/400.gif" width="400px" height="250px"/> -->
 
-<img src="https://cdn.dribbble.com/users/626327/screenshots/2618501/400.gif" alt="imag1" style="width:26%; margin:50px;" align="right">
+<!-- <img src="https://cdn.dribbble.com/users/626327/screenshots/2618501/400.gif" alt="imag1" style="width:26%; margin:50px;" align="right"> -->
 
 ## 😀 Talking about Personal Stuffs
 
