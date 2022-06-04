@@ -28,11 +28,9 @@
 I am a Machine Learning enthusiast 👨‍💻, having made some really cool projects in TensorFlow, Keras, neural networks, reinforcement learning, and association rule learning. I also have short-hand experience with web development frameworks. I love exploring new tech stacks 🚀 and building some projects to create a positive impact on people's life.
 <br/>
 <br/>
-
 <br/>
-<br/>
+<!-- <br/> -->
 <!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/626327/screenshots/2618501/400.gif" width="400px" height="250px"/> -->
-
 
 ## 😀 Talking about Personal Stuffs
 
@@ -41,7 +39,6 @@ I am a Machine Learning enthusiast 👨‍💻, having made some really cool pro
 - 👯 Open For **Collaboration**;
 - 💬 Ask Me About Anything, I Am Happy To **Help**;
 - 📫 How To Reach Me: harshit7962@gmail.com;
-
 <br>
 <br>
 
