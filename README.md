@@ -32,6 +32,8 @@ I am a Machine Learning enthusiast 👨‍💻, having made some really cool pro
 <!-- <br/> -->
 <!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/626327/screenshots/2618501/400.gif" width="400px" height="250px"/> -->
 
+<img src="https://cdn.dribbble.com/users/626327/screenshots/2618501/400.gif" alt="imag1" style="width:26%; margin:50px;" align="right">
+
 ## 😀 Talking about Personal Stuffs
 
 - 👨🏽‍💻 Looking For **Internships**;
@@ -61,12 +63,14 @@ I am a Machine Learning enthusiast 👨‍💻, having made some really cool pro
 <br>
 
 ## 📈 GitHub Stats
-![Daily Activity](https://activity-graph.herokuapp.com/graph?username=harshit7962&bg_color=000000&color=fff&line=0194dd&point=5194f0&area=true)
-
 <p float="left">
   <img src="https://leetcard.jacoblin.cool/harshit7962?theme=dark&font=Adamina" width="418" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit7962&theme=dark&font=Adamina" width="419" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit7962&theme=dark&font=Adamina" width="422" />
 </p>
+
+![Daily Activity](https://activity-graph.herokuapp.com/graph?username=harshit7962&bg_color=000000&color=fff&line=0194dd&point=5194f0&area=true)
+
+
 
 <!-- <p><img src="https://leetcard.jacoblin.cool/harshit7962?theme=dark&font=Adamina" /></p> -->
 
