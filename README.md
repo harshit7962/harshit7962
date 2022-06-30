@@ -67,7 +67,7 @@ I am a Machine Learning enthusiast 👨‍💻, having made some really cool pro
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit7962&theme=dark&font=Adamina" width="422" />
 </p>
 
-![Daily Activity](https://activity-graph.herokuapp.com/graph?username=harshit7962&bg_color=000000&color=fff&line=0194dd&point=5194f0&area=true)
+![Daily Activity](https://activity-graph.herokuapp.com/graph?username=harshit7962&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=ECF9FF&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
 
 
