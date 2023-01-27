@@ -63,10 +63,10 @@ I am a Machine Learning enthusiast 👨‍💻, having made some really cool pro
 ## 📈 GitHub Stats
 <p float="left">
   <img src="https://leetcard.jacoblin.cool/harshit7962?theme=dark&font=Adamina" width="418" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit7962&theme=dark&font=Adamina" width="422" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit7962&theme=dark&font=Adamina" width="422" /> -->
 </p>
 
-![Daily Activity](https://activity-graph.herokuapp.com/graph?username=harshit7962&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=ECF9FF&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+<!-- ![Daily Activity](https://activity-graph.herokuapp.com/graph?username=harshit7962&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=ECF9FF&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph) -->
 
 
 
