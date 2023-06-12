@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/m5IOBjW.png" alt="imag1" style="width:26%; margin:50px;" align="left">
+<img src="https://i.imgur.com/m5IOBjW.png" alt="imag1" style="width:24%; margin:50px;" align="left">
 
 # Hola <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width=40>, I'm [Harshit Mishra!](https://www.harshit7962.me/) 
 <a href="https://www.linkedin.com/in/harshit-mishra-509b4918b/" target="_blank">
@@ -32,17 +32,10 @@ I am a Machine Learning enthusiast 👨‍💻, having made some really cool pro
 <!-- <br/> -->
 
 <!-- <img src="https://cdn.dribbble.com/users/626327/screenshots/2618501/400.gif" alt="imag1" style="width:26%; margin:50px;" align="right"> -->
-
-## 😀 Talking about Personal Stuffs
-
-- 🌱 I’m Currently Working On **Data Structures**; 
-- 👯 Open For **Collaboration**;
-- 💬 Ask Me About Anything, I Am Happy To **Help**;
-- 📫 Reach Me: harshit7962@gmail.com;
 <br>
 <br>
 
-## ⚙️ Languages and Tools  
+<!-- ## ⚙️ Languages and Tools  
 <a href="https://www.cplusplus.com/" target="_blank"><img align="left" alt="C++" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"></a>
 <a href="https://www.java.com/en/" target="_blank"><img align="left" alt="Java" height ="42px" src="https://cdn.worldvectorlogo.com/logos/java.svg"></a>
 <a href="https://jupyter.org/" target="_blank"><img align="left" alt="Jupyter" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"></a>
@@ -58,13 +51,13 @@ I am a Machine Learning enthusiast 👨‍💻, having made some really cool pro
 
 <br>
 <br>
-<br>
+<br> -->
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 <p float="left">
   <img src="https://leetcard.jacoblin.cool/harshit7962?theme=dark&font=Adamina" width="418" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit7962&theme=dark&font=Adamina" width="422" /> -->
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit7962&theme=dark&font=Adamina" width="422" />
+</p> -->
 
 <!-- ![Daily Activity](https://activity-graph.herokuapp.com/graph?username=harshit7962&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=ECF9FF&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph) -->
 
@@ -80,9 +73,9 @@ I am a Machine Learning enthusiast 👨‍💻, having made some really cool pro
 
 <!-- ![MSL](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit7962&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919) -->
 
-## 👀 Visitors count
+<!-- ## 👀 Visitors count
 <img src="https://profile-counter.glitch.me/harshit7962/count.svg" />
   
 <br>
 
-<p align="center">Do Give A Look To My <a href="https://github.com/harshit7962?tab=repositories" target="_blank">Repositories</a> And ⭐ Them.  😊</p>
+<p align="center">Do Give A Look To My <a href="https://github.com/harshit7962?tab=repositories" target="_blank">Repositories</a> And ⭐ Them.  😊</p> -->
